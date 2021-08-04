@@ -1,0 +1,136 @@
+body {
+  background-image: url("C:/Users/Ayush/OneDrive/Desktop/social-proof-section-master/images/bg-pattern-top-desktop.svg"), url("C:/Users/Ayush/OneDrive/Desktop/social-proof-section-master/images/bg-pattern-bottom-desktop.svg");
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
+}
+
+.first {
+  width: 500px;
+  display: inline-block;
+  position: absolute;
+  left: 120px;
+  margin-top: 50px;
+}
+
+.second {
+  width: 500px;
+  display: inline-block;
+  position: absolute;
+  left: 850px;
+  margin: 100px auto auto 50px;
+}
+
+.third {
+  position: absolute;
+  left: 120px;
+  top: 400px;
+}
+
+.p-first-heading {
+  font-weight: bold;
+  font-size: 50px;
+  width: 400px;
+  margin-bottom: 0;
+  color: hsl(300, 43%, 22%);
+}
+
+.p-first-text {
+  width: 400px;
+  color: hsl(303, 10%, 53%);
+}
+
+.s-one {
+  background-color: hsl(300, 24%, 96%);
+  width: 350px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.s-two {
+  background-color: hsl(300, 24%, 96%);
+  width: 350px;
+  margin-bottom: 10px;
+  padding: 10px;
+  margin-left: 40px;
+  border-radius: 10px;
+}
+
+.s-three {
+  background-color: hsl(300, 24%, 96%);
+  width: 350px;
+  padding: 10px;
+  margin-left: 80px;
+  border-radius: 10px;
+}
+
+.t-one {
+  background-color: hsl(300, 43%, 22%);
+  padding: 50px;
+  width: 300px;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+.t-two {
+  background-color: hsl(300, 43%, 22%);
+  padding: 50px;
+  width: 300px;
+  display: inline-block;
+  border-radius: 10px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.t-three {
+  background-color: hsl(300, 43%, 22%);
+  padding: 50px;
+  width: 300px;
+  display: inline-block;
+  border-radius: 10px;
+  position: relative;
+  top: 40px;
+  left: 40px;
+}
+
+.p-s {
+  display: inline-block;
+  position: absolute;
+  margin-top: 0;
+  margin-left: 30px;
+  color: hsl(300, 43%, 22%);
+}
+
+.p-t-one {
+  color: hsl(0, 0%, 100%);
+  display: inline-block;
+  position: relative;
+  bottom: 30px;
+  left: 25px;
+}
+
+.p-t-two {
+  color: hsl(333, 80%, 67%);
+  display: inline-block;
+  position: relative;
+  bottom: 10px;
+  right: 65px;
+}
+
+.p-t-three {
+  color: hsl(300, 24%, 96%);
+}
+
+.buyer-img {
+  border-radius: 50px;
+  width: 50px;
+}
+
+/* .attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+} */
