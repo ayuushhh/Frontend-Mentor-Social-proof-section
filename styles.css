@@ -103,7 +103,7 @@ body {
 }
 
 .p-t-one {
-  color: hsl(0, 0%, 100%);
+  color: rgb(102, 153, 255);
   display: inline-block;
   position: relative;
   bottom: 30px;
@@ -111,7 +111,7 @@ body {
 }
 
 .p-t-two {
-  color: hsl(333, 80%, 67%);
+  color: rgb(153, 0, 204);
   display: inline-block;
   position: relative;
   bottom: 10px;
@@ -119,7 +119,7 @@ body {
 }
 
 .p-t-three {
-  color: hsl(300, 24%, 96%);
+  color: rgb(102, 204, 255);
 }
 
 .buyer-img {
