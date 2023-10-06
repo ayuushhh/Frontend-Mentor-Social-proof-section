@@ -9,7 +9,8 @@ body {
   display: inline-block;
   position: absolute;
   left: 110px;
-  margin-top: 50px;
+/*   margin-top: 50px; */
+  margin-top: 60px;
 }
 
 .second {
