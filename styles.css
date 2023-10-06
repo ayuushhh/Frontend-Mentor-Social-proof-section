@@ -95,11 +95,11 @@ body {
   left: 40px;
 }
 
-.p-s {
+/* .p-s {
   display: inline-block;
   position: absolute;
   margin-top: 0;
-  margin-left: 30px;
+  margin-left: 30px; */
   color: hsl(300, 43%, 22%);
 }
 
